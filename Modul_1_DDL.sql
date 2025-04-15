@@ -47,7 +47,7 @@ FOREIGN KEY (id_produk) REFERENCES member(id_produk);
 
 -- mengisi data pada tabel
 INSERT INTO member(member_id, username, nama, tanggal_lahir, angka_favorit)
-VALUES ('ID-01','saputra', 'm arbiyan','2005-4-04','11');
+VALUES ('ID-01','maulana', 'ihsan','2005-4-04','11');
 
 -- mengakses isi data pada tabel member
 SELECT ' FROM member';
