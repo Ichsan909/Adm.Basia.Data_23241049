@@ -1,5 +1,5 @@
--- Nama : Muhammad arbiyan saputra
--- NIM : 23241041
+-- Nama : Muhammad Maulana ihsan
+-- NIM : 23241049
 -- Kelas : B
 
 -- membuat database
