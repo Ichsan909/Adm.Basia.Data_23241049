@@ -1,3 +1,7 @@
+-- nama: maulana ihsan --
+-- nim : 23241049 ----
+
+
 -- Tabel Pemilik Toko
 CREATE TABLE pemilik_toko (
     id_toko INT PRIMARY KEY,
