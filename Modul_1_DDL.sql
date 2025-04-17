@@ -1,4 +1,4 @@
--- Nama : Muhammad Maulana ihsan
+-- Nama : Maulana ihsan
 -- NIM : 23241049
 -- Kelas : B
 
